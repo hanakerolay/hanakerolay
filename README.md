@@ -3,10 +3,7 @@
 
 Qualificações 
 ----------------------------------------------------------------------------------------------------------------- 
-Profissional orientanda aos negócios com experiência em comunicação, organização, 
-habilidades técnicas, habilidades sociais, resistência ao estresse, resolução de problemas, 
-empatia, confiabilidade, gestão de visitantes e multitarefa. Além de inteligência emocional, o 
-trabalho em equipe, a proatividade, a adaptabilidade e a visão analítica.
+
 
 Informática 
 ----------------------------------------------------------------------------------------------------------------- 
