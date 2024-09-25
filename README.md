@@ -14,12 +14,12 @@ Curso: informática avançada
 
 Instituição: Escola Municipal Elisa Nunes
 
-caga horaria :200hs 
+Duração :200hs 
 
 Curso: informática básica 
 
 Instituição: Escola Municipal Elisa Nunes 
 
-caga horaria :140hs 
+Duração :140hs 
 
 
